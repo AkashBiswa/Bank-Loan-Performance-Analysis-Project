@@ -1,4 +1,4 @@
-# Bank Loan Report Dashboard
+# Bank Loan Performance Analysis
 
 ## Project Summary
 
@@ -119,9 +119,9 @@ Developed three interactive dashboards in Tableau:
 ## Business Recommendations
 
 * Improve credit risk assessment to reduce charged-off loans
-* Implement risk-based pricing for high-risk borrowers
+* Implement risk based pricing for high risk borrowers
 * Monitor and control DTI thresholds during loan approval
-* Focus on high-performing customer segments
+* Focus on high performing customer segments
 * Maintain a balance between growth and risk management
 
 ## Conclusion
